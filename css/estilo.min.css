@@ -1,0 +1,27 @@
+/* tipografia*/
+
+.content {
+    padding: 50px 0px 0px 0px;
+    margin: 40px 20px 10px 20px;
+}
+
+h1 {
+    font-size: 55px;
+    font-weight: 400;
+    color: rgba(0, 32, 75, 0.884);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.content p {
+    font-weight: 500;
+    font-size: 20px;
+    color: rgba(37, 37, 37, 0.61);
+}
+
+.banner {
+    height: 500px;
+    background-image: url(../img/home-hero.5b399cd1b.png);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
